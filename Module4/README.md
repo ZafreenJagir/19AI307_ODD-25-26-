@@ -109,6 +109,8 @@ public class prog {
         }
     }
 }
+```
+
 ### OUTPUT:
 <img width="1240" height="326" alt="image" src="https://github.com/user-attachments/assets/8eacbb77-16b9-4aae-b8ba-10631fe45043" />
 
@@ -394,3 +396,4 @@ public class ArticleManager {
 
 ### RESULT:
 The program successfully demonstrates the Memento Pattern, allowing the user to save, view, and restore different versions of an article.
+
