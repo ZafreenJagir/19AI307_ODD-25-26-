@@ -38,3 +38,4 @@ public class NullPointerArrayExample {
 <img width="1266" height="354" alt="image" src="https://github.com/user-attachments/assets/bf5ecd06-725f-4e1e-bd30-3d13f1fe252e" />
 
 ### RESULT:
+The program successfully detects and handles NullPointerException by displaying "Null element" when the input is null.
